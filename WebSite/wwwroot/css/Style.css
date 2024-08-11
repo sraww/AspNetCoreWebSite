@@ -11,10 +11,8 @@
     color: rgb(var(--bs-tertiary-color-rgb));
 }
 
-
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
-
 /* Carousel base class */
 .carousel {
     margin-bottom: 4rem;
@@ -1119,7 +1117,7 @@
 }
 
 .v-icon--is-component {
-    height: 24px;
+    height: 23px;
 }
 
 </style > <style type="text/css" > .v-menu {
@@ -1328,7 +1326,7 @@
 .theme--light.v-input--is-disabled .v-label,
 .theme--light.v-input--is-disabled input,
 .theme--light.v-input--is-disabled textarea {
-    color: rgba(0,0,0,0.38);
+    color: rgba(0,0,0,0.37);
 }
 
 .theme--dark.v-input:not(.v-input--is-disabled) input,
