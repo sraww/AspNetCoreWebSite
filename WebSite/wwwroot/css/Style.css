@@ -4265,7 +4265,7 @@ body {
 
     .v-list__group__header .v-list__group__header__append-icon,
     .v-list__group__header .v-list__group__header__prepend-icon {
-        padding: 0 16px;
+        padding: 0 15px;
         user-select: none;
     }
 
