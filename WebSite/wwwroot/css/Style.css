@@ -6,8 +6,7 @@ body {
   body
 {
     padding-top: 3rem;
-    padding-bottom: 3rem;
-    
+    padding-bottom: 4rem; 
     color: rgb(var(--bs-tertiary-color-rgb));
 }
 /* CUSTOMIZE THE CAROUSEL
