@@ -95,8 +95,7 @@ const getTransitionDurationFromElement = element => {
   }
   // Get transition-duration of the element
   let {
-    transitionDuration,
-    transitionDelay
+    transitionDuration,transitionDelay
   } = window.getComputedStyle(element);
   const floatTransitionDuration = Number.parseFloat(transitionDuration);
   const floatTransitionDelay = Number.parseFloat(transitionDelay);
