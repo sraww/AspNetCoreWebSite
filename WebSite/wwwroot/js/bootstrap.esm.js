@@ -52,14 +52,12 @@ const Data = {
     }
   }
 };
-
 /**
  * --------------------------------------------------------------------------
  * Bootstrap util/index.js
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
  */
-
 const MAX_UID = 1000000;
 const MILLISECONDS_MULTIPLIER = 1000;
 const TRANSITION_END = 'transitionend';
