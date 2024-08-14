@@ -74,7 +74,6 @@ const parseSelector = selector => {
   }
   return selector;
 };
-
 // Shout-out Angus Croll (https://goo.gl/pxwQGp)
 const toType = object => {
   if (object === null || object === undefined) {
@@ -82,11 +81,9 @@ const toType = object => {
   }
   return Object.prototype.toString.call(object).match(/\s([a-z]+)/i)[1].toLowerCase();
 };
-
 /**
  * Public Util API
  */
-
 const getUID = prefix => {
   do {
     prefix += Math.floor(Math.random() * MAX_UID);
@@ -97,7 +94,6 @@ const getTransitionDurationFromElement = element => {
   if (!element) {
     return 0;
   }
-
   // Get transition-duration of the element
   let {
     transitionDuration,
