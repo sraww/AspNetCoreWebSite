@@ -3233,7 +3233,7 @@ edia (min-width: 767px) {
 .v-select__selection--comma {
     align-items: center;
     display: inline-flex;
-    margin: 7px 4px 7px 0;
+    margin: 7px 3px 7px 0;
 }
 
 .v-select__slot {
