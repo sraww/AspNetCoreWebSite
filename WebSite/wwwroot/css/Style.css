@@ -987,7 +987,7 @@ edia (min-width: 767px) {
 }
 
     .v-chip--label .v-chip__content {
-        border-radius: 2px;
+        border-radius: 1.05px;
     }
 
 .v-chip.v-chip.v-chip--outline {
