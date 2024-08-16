@@ -4971,7 +4971,7 @@ edia (min-width: 767px) {
 .route__city[data-v-b0a8e2d2] {
     white-space: nowrap;
     overflow: hidden;
-    max-width: 130px;
+    max-width: 120px;
     text-overflow: ellipsis
 }
 
