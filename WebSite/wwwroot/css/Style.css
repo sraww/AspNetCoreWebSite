@@ -479,7 +479,7 @@ edia (min-width: 767px) {
 
     .v-text-field .v-input__prepend-inner {
         margin-right: auto;
-        padding-right: 4px;
+        padding-right: 3px;
     }
 
     .v-text-field .v-input__append-inner {
