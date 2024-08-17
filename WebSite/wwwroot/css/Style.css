@@ -4611,13 +4611,11 @@ edia (min-width: 767px) {
         left: -35%;
     }
 }
-
 @keyframes query {
     0% {
         right: -90%;
         left: 100%;
     }
-
     60% {
         right: -90%;
         left: 100%;
