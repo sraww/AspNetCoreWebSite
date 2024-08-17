@@ -6230,25 +6230,21 @@ td.disabled[data-v-155e681b] {
         flex-wrap: wrap
     }
 }
-
 @media screen and (min-width:540px) {
     .daterangepicker.show-weeknumbers[data-v-4391f606], .daterangepicker[data-v-4391f606] {
         min-width: 486px
     }
 }
-
 @media screen and (min-width:768px) {
     .daterangepicker.show-ranges.show-weeknumbers[data-v-4391f606], .daterangepicker.show-ranges[data-v-4391f606] {
         min-width: 682px
     }
 }
-
 @media screen and (max-width:340px) {
     .daterangepicker.single.show-weeknumbers[data-v-4391f606], .daterangepicker.single[data-v-4391f606] {
         min-width: 245px
     }
 }
-
 @media screen and (min-width:339px) {
     .daterangepicker.single[data-v-4391f606] {
         min-width: auto
