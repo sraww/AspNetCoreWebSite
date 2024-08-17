@@ -410,12 +410,10 @@ edia (min-width: 767px) {
     margin-left: 0;
     margin-right: 7px;
 }
-
 .application--is-rtl .v-text-field--enclosed .v-input__append-outer {
     margin-left: 0;
     margin-right: 16px;
 }
-
 .application--is-rtl .v-text-field--enclosed .v-input__prepend-outer {
     margin-left: 16px;
     margin-right: 0;
