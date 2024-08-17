@@ -5160,12 +5160,10 @@ edia (min-width: 767px) {
     align-items: center;
     margin-right: 16px
 }
-
 .card__segments[data-v-d0fcb826] {
     display: flex;
     flex-direction: column
 }
-
 .card__segment[data-v-d0fcb826] {
     display: flex;
     align-items: center
