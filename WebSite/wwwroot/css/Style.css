@@ -233,15 +233,12 @@ edia (min-width: 767px) {
 </style > <style type="text/css" > .v-autocomplete.v-input > .v-input__control > .v-input__slot {
     cursor: text;
 }
-
 .v-autocomplete input {
     align-self: center;
 }
-
 .v-autocomplete--is-selecting-index input {
     opacity: 0;
 }
-
 .v-autocomplete.v-text-field--enclosed:not(.v-text-field--solo):not(.v-text-field--single-line) .v-select__slot > input {
     margin-top: 24px;
 }
