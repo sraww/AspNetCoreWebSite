@@ -309,7 +309,6 @@ edia (min-width: 767px) {
 .theme--light.v-text-field--box:not(.v-input--is-focused) > .v-input__control > .v-input__slot:hover {
     background: rgba(0,0,0,0.12);
 }
-
 .theme--light.v-text-field--outline > .v-input__control > .v-input__slot {
     border: 2px solid rgba(0,0,0,0.54);
 }
