@@ -3748,7 +3748,6 @@ edia (min-width: 767px) {
     flex-wrap: wrap;
     width: 100%;
 }
-
 .v-input__icon {
     align-items: center;
     display: inline-flex;
@@ -3758,11 +3757,9 @@ edia (min-width: 767px) {
     min-width: 24px;
     width: 24px;
 }
-
 .v-input__icon--clear {
     border-radius: 50%;
 }
-
 .v-input__slot {
     align-items: center;
     color: inherit;
