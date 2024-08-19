@@ -96,7 +96,6 @@ edia (min-width: 767px) {
     vertical-align: -.125em;
     fill: currentColor;
 }
-
 .nav-scroller {
     position: relative;
     z-index: 2;
@@ -128,7 +127,6 @@ edia (min-width: 767px) {
     --bs-btn-active-bg: #5a23c8;
     --bs-btn-active-border-color: #5a23c8;
 }
-
 .bd-mode-toggle {
     z-index: 1500;
 }
@@ -184,13 +182,11 @@ edia (min-width: 767px) {
     padding: 15px;
     width: 100%;
 }
-
 .v-card__actions {
     align-items: center;
     display: flex;
     padding: 8px;
 }
-
     .v-card__actions > *,
     .v-card__actions .v-btn {
         margin: 0;
