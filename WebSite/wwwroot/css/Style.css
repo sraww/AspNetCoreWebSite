@@ -4553,18 +4553,15 @@ edia (min-width: 767px) {
         right: -90%;
         left: 100%;
     }
-
     60% {
         right: -90%;
         left: 100%;
     }
-
-    100% {
+   100% {
         right: 100%;
         left: -35%;
     }
 }
-
 @-o-keyframes query {
     0% {
         right: -90%;
