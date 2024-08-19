@@ -2813,7 +2813,6 @@ edia (min-width: 767px) {
         min-width: 0px;
         width: 100%;
     }
-
     .v-text-field .v-input__prepend-inner,
     .v-text-field .v-input__append-inner {
         align-self: flex-start;
