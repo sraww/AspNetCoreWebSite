@@ -154,7 +154,6 @@ edia (min-width: 767px) {
         border-top-left-radius: inherit;
         border-top-right-radius: inherit;
     }
-
     .v-card > *:last-child:not(.v-btn):not(.v-chip) {
         border-bottom-left-radius: inherit;
         border-bottom-right-radius: inherit;
