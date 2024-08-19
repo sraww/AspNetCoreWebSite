@@ -197,11 +197,9 @@ edia (min-width: 767px) {
     .v-card__actions .v-btn {
         margin: 0;
     }
-
         .v-card__actions .v-btn + .v-btn {
             margin-left: 8px;
         }
-
 </style > <style type="text/css" >/* Themes */
 .theme--light.v-sheet {
     background-color: #fff;
