@@ -4842,15 +4842,12 @@ edia (min-width: 767px) {
     box-sizing: border-box;
     min-width: 10px
 }
-
 .itinerary-item_options .itinerary-item__airport[data-v-5e7dd305] {
     top: 16px
 }
-
 .itinerary-item_options .itinerary-item__airport_not-same[data-v-5e7dd305] {
     top: 10px
 }
-
 .itinerary-item[data-v-5e7dd305]:hover {
     background: #ff6f32
 }
