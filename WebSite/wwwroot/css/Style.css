@@ -6334,13 +6334,11 @@ td.disabled[data-v-155e681b] {
 .date-picker .prev span {
     left: 20px
 }
-
 .date-picker .next span {
     right: 20px;
     transform: rotate(180deg) !important;
     -webkit-transform: rotate(180deg) !important
 }
-
 .date-picker td, .date-picker th, .date-picker tr {
     height: 28px !important;
     width: 32px !important;
