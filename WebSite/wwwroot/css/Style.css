@@ -5416,18 +5416,15 @@ edia (min-width: 767px) {
         background-color: #ffe600;
         box-shadow: 0 4px 11px rgba(10,22,70,.2)
     }
-
 .vb[data-v-6a06a6ab] {
     height: 100%
 }
-
 .vb > .vb-dragger[data-v-6a06a6ab] {
     z-index: 5;
     width: 5px;
     right: 2px;
     cursor: pointer
 }
-
 .vb > .vb-dragger > .vb-dragger-styler[data-v-6a06a6ab] {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -5441,11 +5438,9 @@ edia (min-width: 767px) {
     height: 90%;
     display: block
 }
-
 .vb.vb-scrolling-phantom > .vb-dragger > .vb-dragger-styler[data-v-6a06a6ab] {
     background-color: rgba(0,0,0,.1)
 }
-
 .vb.vb-dragging > .vb-dragger > .vb-dragger-styler[data-v-6a06a6ab], .vb > .vb-dragger:hover > .vb-dragger-styler[data-v-6a06a6ab] {
     background-color: rgba(0,0,0,.30);
     margin: 0;
@@ -5483,7 +5478,6 @@ edia (min-width: 767px) {
     height: 15px;
     margin-right: 5px
 }
-
 .autocomplete__input[data-v-6a06a6ab] {
     height: 100%;
     outline: none;
@@ -5505,7 +5499,6 @@ edia (min-width: 767px) {
     user-select: auto !important;
     transition: .3s
 }
-
     .autocomplete__input[data-v-6a06a6ab]:focus {
         border: 2px solid #ffd000;
         box-shadow: 0 4px 11px rgba(10,22,70,.2);
@@ -5513,7 +5506,6 @@ edia (min-width: 767px) {
         border-radius: 4px !important;
         box-shadow: 0 4px 15px rgba(0,0,0,.3)
     }
-
 .autocomplete__loader[data-v-6a06a6ab] {
     position: absolute;
     top: 0;
