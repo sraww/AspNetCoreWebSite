@@ -7357,7 +7357,6 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     display: flex;
     align-items: flex-start
 }
-
 .placeholder__img[data-v-52b265c9] {
     height: 44px;
     width: 34px;
@@ -7367,12 +7366,10 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     background-size: 100%;
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iNDQiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTE3IDBDNy42MyAwIDAgNy42MyAwIDE3djEwYzAgOS4zNyA3LjYzIDE3IDE3IDE3IDkuMzcgMCAxNy03LjYzIDE3LTE3VjE3YzAtOS4zNy03LjYzLTE3LTE3LTE3em0tMy41IDhoN2MuODMgMCAxLjUuNjcgMS41IDEuNXMtLjY3IDEuNS0xLjUgMS41aC03Yy0uODMgMC0xLjUtLjY3LTEuNS0xLjVTMTIuNjcgOCAxMy41IDh6TTMuMDUgMTZoMjcuOWMuMDIzLjMzMi4wNS42NjIuMDUgMXYxMGMwIC4zMzQtLjAyOC42Ni0uMDUuOTg4YTMuNDYzIDMuNDYzIDAgMDAtMi4zOC0uOTUzaC0uOTI3YTYuMDM2IDYuMDM2IDAgMDAtMTIuMDczIDBoLS45M0EzLjQ4MyAzLjQ4MyAwIDEwMTQuNjQ0IDM0aDEzLjkzYy4yIDAgLjM5Mi0uMDI2LjU4My0uMDU5QzI2Ljc0OCAzOC4xNiAyMi4yMTggNDEgMTcgNDEgOS4yNSA0MSAzIDM0Ljc1IDMgMjdWMTdjMC0uMzM4LjAyNy0uNjY4LjA1LTF6IiBmaWxsPSIjMDNBOUY0Ii8+PC9zdmc+)
 }
-
 .placeholder__content[data-v-52b265c9] {
     display: flex;
     flex-direction: column
 }
-
 .placeholder__title[data-v-52b265c9] {
     font-weight: 600;
     font-size: 18px;
