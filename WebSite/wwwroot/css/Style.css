@@ -6865,22 +6865,18 @@ td.disabled[data-v-155e681b] {
     height: 0;
     width: 0
 }
-
 input:checked ~ .checkbox__mark[data-v-543ac00b]:after {
     display: block
 }
-
 input:checked ~ .checkbox__mark[data-v-543ac00b] {
     background-color: #03a9f4
 }
-
 .checkbox__content[data-v-543ac00b] {
     width: 100%;
     display: flex;
     align-items: center;
     justify-content: space-between
 }
-
 .checkbox__text[data-v-543ac00b] {
     font-size: 14px;
     line-height: 20px;
@@ -6894,7 +6890,6 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
 .checkbox__text_no-prompt[data-v-543ac00b] {
     width: 100%
 }
-
 .checkbox__prompt[data-v-543ac00b] {
     font-size: 12px;
     line-height: 16px;
@@ -6902,13 +6897,11 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     min-width: 26px !important;
     text-align: left
 }
-
 .checkbox__button[data-v-543ac00b] {
     font-size: 14px;
     color: #03a9f4;
     padding-right: 4px
 }
-
 .checkbox__mark[data-v-543ac00b] {
     display: flex;
     height: 12px;
@@ -6922,7 +6915,6 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     align-items: center;
     justify-content: center
 }
-
     .checkbox__mark[data-v-543ac00b]:after {
         content: "";
         display: none;
@@ -6934,15 +6926,13 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
         -webkit-transform: rotate(45deg);
         -ms-transform: rotate(45deg);
         transform: rotate(45deg)
-    }
-
+   }
 .vue-slider-dot {
     position: absolute;
     -webkit-transition: all 0s;
     transition: all 0s;
     z-index: 5
 }
-
     .vue-slider-dot:focus {
         outline: none
     }
