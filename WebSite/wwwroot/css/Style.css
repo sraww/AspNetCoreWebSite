@@ -5387,7 +5387,6 @@ edia (min-width: 767px) {
     margin: 16px 0;
     align-self: center
 }
-
 .options__arrow-right[data-v-69a536ca] {
     height: 20px;
     width: 20px;
@@ -5396,7 +5395,6 @@ edia (min-width: 767px) {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTEiIGhlaWdodD0iNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNOS44OTYuMTQ2TDUuNSA0LjU0MyAxLjEwNC4xNDZhLjUuNSAwIDEwLS43MDguNzA3bDQuNzUgNC43NWEuNDk4LjQ5OCAwIDAwLjcwOCAwbDQuNzUtNC43NWEuNS41IDAgMDAtLjcwNy0uNzA3eiIgZmlsbD0iIzg4OTJCMCIvPjwvc3ZnPg==);
     transform: rotate(-90deg)
 }
-
 .options .cta[data-v-69a536ca] {
     display: flex;
     padding: 4px 12px;
