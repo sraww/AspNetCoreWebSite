@@ -264,12 +264,10 @@ edia (min-width: 767px) {
 .theme--light.v-text-field__suffix {
     color: rgba(0,0,0,0.54);
 }
-
 .theme--light.v-text-field--solo > .v-input__control > .v-input__slot {
     border-radius: 2px;
     background: #fff;
 }
-
 .theme--light.v-text-field--solo-inverted.v-text-field--solo > .v-input__control > .v-input__slot {
     background: rgba(0,0,0,0.16);
 }
