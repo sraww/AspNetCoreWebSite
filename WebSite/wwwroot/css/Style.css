@@ -5544,7 +5544,6 @@ edia (min-width: 767px) {
     width: 100%;
     text-align: center
 }
-
 .autocomplete__results[data-v-6a06a6ab] {
     transform: translateX(-7.5%);
     display: flex;
@@ -5556,7 +5555,6 @@ edia (min-width: 767px) {
     border: 1px solid #ababab;
     border-radius: 10px
 }
-
 .autocomplete__result[data-v-6a06a6ab] {
     display: flex;
     height: 32px;
@@ -5580,22 +5578,18 @@ edia (min-width: 767px) {
 .autocomplete__result .bold[data-v-6a06a6ab] {
     font-weight: 700
 }
-
 .autocomplete__text[data-v-6a06a6ab] {
     display: flex;
     justify-content: space-between;
     width: 100%
 }
-
 .autocomplete .text_cashback[data-v-6a06a6ab] {
     margin-left: 10px;
     font-size: 12px
 }
-
 .autocomplete .text_cashback span[data-v-6a06a6ab] {
     font-size: 12px
 }
-
 .date-picker-field[data-v-147889c0] {
     display: flex;
     justify-content: space-between;
