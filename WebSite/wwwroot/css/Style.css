@@ -6277,7 +6277,6 @@ td.disabled[data-v-155e681b] {
     font-size: 12px;
     transition: .3s
 }
-
 .date-picker_focus {
     border: 2px solid #ffd000;
     box-shadow: 0 4px 11px rgba(10,22,70,.2);
@@ -6285,14 +6284,12 @@ td.disabled[data-v-155e681b] {
     z-index: 10;
     border-radius: 4px
 }
-
 .date-picker .drp-calendar {
     padding-bottom: 30px !important;
     padding-top: 32px !important;
     width: auto;
     max-width: none
 }
-
     .date-picker .drp-calendar.left {
         padding-left: 60px !important
     }
