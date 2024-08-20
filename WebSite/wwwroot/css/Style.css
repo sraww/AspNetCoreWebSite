@@ -5451,21 +5451,17 @@ edia (min-width: 767px) {
     margin: 0;
     height: 100%
 }
-
 .vb.vb-dragging-phantom > .vb-dragger > .vb-dragger-styler[data-v-6a06a6ab] {
     background-color: rgba(0,0,0,.25)
 }
-
 @keyframes rotate-data-v-6a06a6ab {
     0% {
         transform: rotate(0)
     }
-
     to {
         transform: rotate(1turn)
     }
 }
-
 .autocomplete[data-v-6a06a6ab] {
     position: relative;
     display: flex;
