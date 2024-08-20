@@ -5593,7 +5593,6 @@ edia (min-width: 767px) {
 .date-picker-field__text_placeholder[data-v-147889c0] {
     color: #8892b0
 }
-
 td[data-v-155e681b], th[data-v-155e681b] {
     padding: 2px;
     background-color: #fff
@@ -5607,7 +5606,6 @@ td.disabled[data-v-155e681b] {
     border-radius: 0;
     opacity: .6
 }
-
 .fa[data-v-155e681b] {
     display: inline-block;
     width: 100%;
@@ -5616,29 +5614,24 @@ td.disabled[data-v-155e681b] {
     background-size: 100% 100%;
     fill: #ccc
 }
-
 .next[data-v-155e681b]:hover, .prev[data-v-155e681b]:hover {
     background-color: transparent !important
 }
-
 .next .fa[data-v-155e681b]:hover, .prev .fa[data-v-155e681b]:hover {
     opacity: .6
 }
-
 .chevron-left[data-v-155e681b] {
     width: 16px;
     height: 16px;
     display: block;
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-2 -2 10 10'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E")
 }
-
 .chevron-right[data-v-155e681b] {
     width: 16px;
     height: 16px;
     display: block;
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='-2 -2 10 10'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E")
 }
-
 .yearselect[data-v-155e681b] {
     padding-right: 1px;
     border: none;
