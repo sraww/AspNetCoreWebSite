@@ -4701,26 +4701,21 @@ edia (min-width: 767px) {
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%)
 }
-
 .vue-slider-ltr .vue-slider-mark-step {
     left: 0
 }
-
 .vue-slider-ltr .vue-slider-mark-label {
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%)
 }
-
 .vue-slider-rtl .vue-slider-mark {
     -webkit-transform: translate(50%,-50%);
     transform: translate(50%,-50%)
 }
-
 .vue-slider-rtl .vue-slider-mark-step {
     right: 0
 }
-
 .vue-slider-rtl .vue-slider-mark-label {
     right: 50%;
     -webkit-transform: translateX(50%);
@@ -4732,25 +4727,20 @@ edia (min-width: 767px) {
     height: 0;
     left: 50%
 }
-
 .vue-slider-btt .vue-slider-mark-step, .vue-slider-ttb .vue-slider-mark-step {
     left: 0
 }
-
 .vue-slider-btt .vue-slider-mark-label, .vue-slider-ttb .vue-slider-mark-label {
     left: 100%;
     margin-left: 10px
 }
-
 .vue-slider-btt .vue-slider-mark {
     -webkit-transform: translate(-50%,50%);
     transform: translate(-50%,50%)
 }
-
 .vue-slider-btt .vue-slider-mark-step {
     top: 0
 }
-
 .vue-slider-btt .vue-slider-mark-label {
     top: 50%;
     -webkit-transform: translateY(-50%);
