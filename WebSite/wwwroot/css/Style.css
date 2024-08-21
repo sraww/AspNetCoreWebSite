@@ -498,14 +498,12 @@ edia (min-width: 767px) {
             border-width: thin 0 thin 0;
             transform: scaleX(0);
         }
-
 .v-text-field__details {
     display: flex;
     flex: 1 0 auto;
     max-width: 100%;
     overflow: hidden;
 }
-
 .v-text-field__prefix,
 .v-text-field__suffix {
     align-self: center;
@@ -516,23 +514,19 @@ edia (min-width: 767px) {
     text-align: right;
     padding-right: 4px;
 }
-
 .v-text-field__suffix {
     padding-left: 4px;
     white-space: nowrap;
 }
-
 .v-text-field--reverse .v-text-field__prefix {
     text-align: left;
     padding-right: 0;
     padding-left: 4px;
 }
-
 .v-text-field--reverse .v-text-field__suffix {
     padding-left: 0;
     padding-right: 4px;
 }
-
 .v-text-field > .v-input__control > .v-input__slot > .v-text-field__slot {
     display: flex;
     flex: 1 1 auto;
