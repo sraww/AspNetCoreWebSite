@@ -4806,17 +4806,14 @@ edia (min-width: 767px) {
 .itinerary-item[data-v-5e7dd305]:hover {
     background: #ff6f32
 }
-
 .itinerary-item:hover .itinerary-item__airport[data-v-5e7dd305] {
     color: #ff6f32
 }
-
 .itinerary-item__transfer[data-v-5e7dd305] {
     background: #cdd4de;
     min-width: 20px;
     height: 2px
 }
-
 .itinerary-item__airport[data-v-5e7dd305] {
     position: absolute;
     top: 20px;
@@ -4828,7 +4825,6 @@ edia (min-width: 767px) {
     line-height: 7px;
     border: none !important
 }
-
 .itinerary-item__popup[data-v-5e7dd305] {
     position: absolute;
     font-size: 12px;
@@ -4845,14 +4841,12 @@ edia (min-width: 767px) {
     width: max-content;
     max-width: 300px
 }
-
 .itinerary-item__flight[data-v-5e7dd305] {
     background: #cdd4de !important;
     height: 4px;
     border-radius: 5px;
     border: 1px solid #cdd4de
 }
-
     .itinerary-item__flight[data-v-5e7dd305]:hover {
         border: 1px solid #ff6f32
     }
@@ -4901,14 +4895,12 @@ edia (min-width: 767px) {
         margin-top: 12px;
         padding-top: 12px;
         border-top: 1px solid #c5d3e0
-    }
-
+   }
 .segment__path[data-v-4086fdd9] {
     display: flex;
     flex-direction: column;
     width: 170px
 }
-
 .segment__flight[data-v-4086fdd9] {
     width: 100%;
     display: flex;
@@ -4916,7 +4908,6 @@ edia (min-width: 767px) {
     justify-content: space-between;
     margin-bottom: 12px
 }
-
 .segment__img[data-v-4086fdd9] {
     width: 16px;
     height: 14px;
@@ -4925,23 +4916,18 @@ edia (min-width: 767px) {
     background-position: 50%;
     transition: .3s
 }
-
 .segment__img_hover.segment__img_takeoff[data-v-4086fdd9] {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTciIGhlaWdodD0iMTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMuNjk2LjYyNGEuODM3LjgzNyAwIDAwLS42MDQgMS40MDVsMy41MDEgMy43ODNMMy4zOSA3LjIxMyAxLjQxNSA2LjA1NWEuODI4LjgyOCAwIDAwLTEuMTIgMS4xNTdMMS40MSA4Ljk4NGEyLjM1NSAyLjM1NSAwIDAwMi45MzUuOTAyTDE1Ljk4NyA0Ljc5YTEuNDEzIDEuNDEzIDAgMDAtMS4xMzItMi41ODlsLTQuMzc3IDEuOTEzTDQuMS43MmEuODM2LjgzNiAwIDAwLS40MDMtLjA5N3ptLTIuMDcxIDEzLjIxYS42MjQuNjI0IDAgMTAwIDEuMjVoMTMuNzVhLjYyNS42MjUgMCAxMDAtMS4yNUgxLjYyNXoiIGZpbGw9IiNmZjZmMzIiLz48L3N2Zz4=)
 }
-
 .segment__img_hover.segment__img_landing[data-v-4086fdd9] {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTciIGhlaWdodD0iMTciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuNDY0LjY2N2EuODUzLjg1MyAwIDAwLS44MzcuODY2bC4wNzggNS4xMDktMy4zODMtMS4xMTktLjcwOC0yLjIyYS44NDQuODQ0IDAgMDAtMS42MzcuMTE0TC42MTcgNS41MkEyLjQgMi40IDAgMDAyLjIzIDguMjAybDEyLjI5NSA0LjA1OGExLjQ0IDEuNDQgMCAwMC45MDQtMi43MzNMMTAuNzUgNy45OGwtMi40Ny02Ljc1M2EuODUyLjg1MiAwIDAwLS44MTUtLjU2em0tNS44NCAxNC4xNjZhLjYyNi42MjYgMCAxMDAgMS4yNWgxMy43NWEuNjI0LjYyNCAwIDEwMC0xLjI1SDEuNjI1eiIgZmlsbD0iI2ZmNmYzMiIvPjwvc3ZnPg==)
 }
-
 .segment__img_takeoff[data-v-4086fdd9] {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTciIGhlaWdodD0iMTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTMuNjk2LjYyNGEuODM3LjgzNyAwIDAwLS42MDQgMS40MDVsMy41MDEgMy43ODNMMy4zOSA3LjIxMyAxLjQxNSA2LjA1NWEuODI4LjgyOCAwIDAwLTEuMTIgMS4xNTdMMS40MSA4Ljk4NGEyLjM1NSAyLjM1NSAwIDAwMi45MzUuOTAyTDE1Ljk4NyA0Ljc5YTEuNDEzIDEuNDEzIDAgMDAtMS4xMzItMi41ODlsLTQuMzc3IDEuOTEzTDQuMS43MmEuODM2LjgzNiAwIDAwLS40MDMtLjA5N3ptLTIuMDcxIDEzLjIxYS42MjQuNjI0IDAgMTAwIDEuMjVoMTMuNzVhLjYyNS42MjUgMCAxMDAtMS4yNUgxLjYyNXoiIGZpbGw9IiM4ODkyQjAiLz48L3N2Zz4=)
 }
-
 .segment__img_landing[data-v-4086fdd9] {
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTciIGhlaWdodD0iMTciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTcuNDY0LjY2N2EuODUzLjg1MyAwIDAwLS44MzcuODY2bC4wNzggNS4xMDktMy4zODMtMS4xMTktLjcwOC0yLjIyYS44NDQuODQ0IDAgMDAtMS42MzcuMTE0TC42MTcgNS41MkEyLjQgMi40IDAgMDAyLjIzIDguMjAybDEyLjI5NSA0LjA1OGExLjQ0IDEuNDQgMCAwMC45MDQtMi43MzNMMTAuNzUgNy45OGwtMi40Ny02Ljc1M2EuODUyLjg1MiAwIDAwLS44MTUtLjU2em0tNS44NCAxNC4xNjZhLjYyNi42MjYgMCAxMDAgMS4yNWgxMy43NWEuNjI0LjYyNCAwIDEwMC0xLjI1SDEuNjI1eiIgZmlsbD0iIzg4OTJCMCIvPjwvc3ZnPg==)
 }
-
 .segment__airports[data-v-4086fdd9] {
     width: 100%;
     display: flex;
