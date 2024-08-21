@@ -4856,14 +4856,12 @@ edia (min-width: 767px) {
     .itinerary-item__flight[data-v-5e7dd305]:hover {
         border: 1px solid #ff6f32
     }
-
 .itinerary[data-v-042bd004] {
     border-radius: 10px;
     display: flex;
     align-items: center;
     width: 100%
 }
-
 .route[data-v-b0a8e2d2] {
     width: 140px;
     display: flex;
@@ -4871,24 +4869,20 @@ edia (min-width: 767px) {
     align-items: flex-start;
     color: #8892b0
 }
-
 .route_arrival[data-v-b0a8e2d2] {
     align-items: flex-end
 }
-
 .route__city[data-v-b0a8e2d2] {
     white-space: nowrap;
     overflow: hidden;
     max-width: 120px;
     text-overflow: ellipsis
 }
-
 .route__time[data-v-b0a8e2d2] {
     color: #1f1f1f;
     font-size: 25px;
     line-height: 30px
 }
-
 .route__time_options-list[data-v-b0a8e2d2] {
     font-size: 18px;
     line-height: 16px;
