@@ -159,13 +159,12 @@ edia (min-width: 767px) {
 .v-card--flat {
     box-shadow: 0px 0px 0px 0px rgba(0,0,0,0.2), 0px 0px 0px 0px rgba(0,0,0,0.14), 0px 0px 0px 0px rgba(0,0,0,0.12);
 }
-
 .v-card--hover {
     cursor: pointer;
     transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
     transition-property: box-shadow;
 }
-    .v-card--hover:hover {
+   .v-card--hover:hover {
         box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2), 0px 8px 10px 1px rgba(0,0,0,0.14), 0px 3px 14px 2px rgba(0,0,0,0.12);
     }
 .v-card__title {
@@ -206,18 +205,15 @@ edia (min-width: 767px) {
     border-color: #424242;
     color: #fff;
 }
-
 .v-sheet {
     display: block;
     border-radius: 2px;
     position: relative;
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
 }
-
 .v-sheet--tile {
     border-radius: 0;
 }
-
 </style > <style type="text/css" > .v-autocomplete.v-input > .v-input__control > .v-input__slot {
     cursor: text;
 }
@@ -234,27 +230,21 @@ edia (min-width: 767px) {
 .v-autocomplete:not(.v-input--is-disabled).v-select.v-text-field input {
     pointer-events: inherit;
 }
-
 .v-autocomplete__content.v-menu__content {
     border-radius: 0;
 }
-
     .v-autocomplete__content.v-menu__content .v-card {
         border-radius: 0;
     }
-
  .theme--light.v-text-field > .v-input__control > .v-input__slot:before {
     border-color: rgba(0,0,0,0.42);
 }
-
 .theme--light.v-text-field:not(.v-input--has-state) > .v-input__control > .v-input__slot:hover:before {
     border-color: rgba(0,0,0,0.87);
 }
-
 .theme--light.v-text-field.v-input--is-disabled > .v-input__control > .v-input__slot:before {
     border-image: repeating-linear-gradient(to right, rgba(0,0,0,0.38) 0px, rgba(0,0,0,0.38) 2px, transparent 2px, transparent 4px) 1 repeat;
 }
-
     .theme--light.v-text-field.v-input--is-disabled > .v-input__control > .v-input__slot:before .v-text-field__prefix,
     .theme--light.v-text-field.v-input--is-disabled > .v-input__control > .v-input__slot:before .v-text-field__suffix {
         color: rgba(0,0,0,0.38);
