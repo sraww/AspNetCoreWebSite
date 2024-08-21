@@ -5243,12 +5243,10 @@ edia (min-width: 767px) {
     padding: 8px 16px 16px;
     width: min-content
 }
-
 .options__header[data-v-69a536ca] {
     display: flex;
     align-items: center
 }
-
 .options__icon[data-v-69a536ca] {
     height: 35px;
     width: 35px;
@@ -5258,32 +5256,27 @@ edia (min-width: 767px) {
     margin-right: 15px;
     background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDQiIGhlaWdodD0iNDMiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTQxLjc5NSAxLjQxM2MtMi0xLjgxOC01LjI3OS0xLjY3Ni03LjE1OS4zMDZsLTYuNTEgNi44OTFMOC43MiAyLjg0NkE0LjM2OCA0LjM2OCAwIDAwNC4wNTkgNC4xYTIuODQgMi44NCAwIDAwLS43MDMgMi4xNjdjLjA3OC44My41MDIgMS42MDEgMS4xODMgMi4xMzJsMTQuMTg0IDEwLjEyNy04Ljk2NSA5LjI0NS0zLjExNC0uOTUxYTQuMzgzIDQuMzgzIDAgMDAtNC45OTEuNzYxIDIuOTEyIDIuOTEyIDAgMDAtLjg5MyAyLjA4NmMtLjAwNy44MDIuMzEzIDEuNTg1Ljk1NiAyLjIxNWwyLjU1OSAxLjgyNS0uMzk2LjU4OWEzLjY2IDMuNjYgMCAwMC40NDIgNC42MzFsLjAwMi4wMDJhMy42NiAzLjY2IDAgMDA0LjYzLjQ0MmwuNTktLjM5OCAxLjg5MiAyLjY0YTMuMDE2IDMuMDE2IDAgMDAyLjEyMS44NzVoLjAyN2EyLjkxMiAyLjkxMiAwIDAwMi4wODYtLjg5MmMxLjI4Mi0xLjMzIDEuNTg4LTMuMzM3LjgtNC44OTZsLS45ODgtMy4yMSA5LjI0NS04Ljk2NEwzNC44NyAzOC43MjhhMy4wNSAzLjA1IDAgMDAyLjExNSAxLjE2MyAyLjgzIDIuODMgMCAwMDIuMTY3LS43MDIgNC4zNjYgNC4zNjYgMCAwMDEuMjU5LTQuNjRMMzQuNjQgMTUuMTJsNi44OTEtNi41MWMxLjk4NC0xLjg3OSAyLjEyNC01LjE1Ni4yNjQtNy4xOTl6IiBmaWxsPSIjMDNBOUY0Ii8+PC9zdmc+)
 }
-
 .options__header-content[data-v-69a536ca] {
     display: flex;
     flex-direction: column
 }
-
 .options__direction[data-v-69a536ca] {
     font-weight: 600;
     font-size: 18px;
     line-height: 32px;
     color: #1f1f1f
 }
-
 .options__details[data-v-69a536ca] {
     font-size: 13px;
     line-height: 24px;
     color: #8892b0
 }
-
 .options__header-right[data-v-69a536ca] {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
     margin-left: auto
 }
-
 .options__tip[data-v-69a536ca] {
     background: #03a9f4;
     color: #fff;
@@ -5291,7 +5284,6 @@ edia (min-width: 767px) {
     border-radius: 16px 0 0 16px;
     transform: translateX(16px)
 }
-
 .options__more-button[data-v-69a536ca] {
     padding: 4px 8px;
     border-radius: 8px;
@@ -5303,7 +5295,6 @@ edia (min-width: 767px) {
     cursor: pointer;
     margin-top: 8px
 }
-
 .options__loader[data-v-69a536ca] {
     width: 140px;
     height: 140px;
@@ -5318,7 +5309,6 @@ edia (min-width: 767px) {
     margin-top: 0;
     background-size: 100px
 }
-
 .options__loader-bg[data-v-69a536ca] {
     position: absolute;
     display: flex;
@@ -5331,7 +5321,6 @@ edia (min-width: 767px) {
     z-index: 100000;
     background-color: hsla(0,0%,100%,.7)
 }
-
 .options__loader-prompt[data-v-69a536ca] {
     font-weight: 400;
     font-size: 12px;
