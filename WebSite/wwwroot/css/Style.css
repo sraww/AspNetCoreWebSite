@@ -1648,38 +1648,30 @@ edia (min-width: 767px) {
     min-width: 56px;
     align-items: center;
 }
-
     .v-list__tile__action .v-btn {
         padding: 0;
         margin: 0;
     }
-
     .v-list__tile__action .v-btn--icon {
         margin: -6px;
     }
-
     .v-list__tile__action .v-radio.v-radio {
         margin: 0;
     }
-
     .v-list__tile__action .v-input--selection-controls {
         padding: 0;
         margin: 0;
     }
-
         .v-list__tile__action .v-input--selection-controls .v-messages {
             display: none;
         }
-
         .v-list__tile__action .v-input--selection-controls .v-input__slot {
             margin: 0;
         }
-
 .v-list__tile__action-text {
     color: #9e9e9e;
     font-size: 12px;
 }
-
 .v-list__tile__action--stack {
     align-items: flex-end;
     justify-content: space-between;
@@ -1688,7 +1680,6 @@ edia (min-width: 767px) {
     white-space: nowrap;
     flex-direction: column;
 }
-
 .v-list__tile__content {
     text-align: left;
     flex: 1 1 auto;
@@ -1698,7 +1689,6 @@ edia (min-width: 767px) {
     justify-content: center;
     flex-direction: column;
 }
-
     .v-list__tile__content ~ .v-list__tile__avatar {
         justify-content: flex-end;
     }
