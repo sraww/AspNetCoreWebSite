@@ -280,16 +280,13 @@ edia (min-width: 767px) {
     .theme--light.v-text-field--solo-inverted.v-text-field--solo.v-input--is-focused > .v-input__control > .v-input__slot input {
         color: #fff;
     }
-
 .theme--light.v-text-field--box > .v-input__control > .v-input__slot {
     background: rgba(0,0,0,0.06);
 }
-
 .theme--light.v-text-field--box .v-text-field__prefix {
     max-height: 32px;
     margin-top: 22px;
 }
-
 .theme--light.v-text-field--box.v-input--is-dirty .v-text-field__prefix,
 .theme--light.v-text-field--box.v-input--is-focused .v-text-field__prefix,
 .theme--light.v-text-field--box.v-text-field--placeholder .v-text-field__prefix {
