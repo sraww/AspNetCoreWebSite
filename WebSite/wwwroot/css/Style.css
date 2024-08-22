@@ -1477,15 +1477,13 @@ edia (min-width: 767px) {
         min-height: 0;
         max-height: calc(100% - 16px);
     }
-
-</style > <style type="text/css" > .theme--light.v-subheader {
+</style >
+<style type="text/css" > .theme--light.v-subheader {
     color: rgba(0,0,0,0.54);
 }
-
 .theme--dark.v-subheader {
     color: rgba(255,255,255,0.7);
 }
-
 .v-subheader {
     align-items: center;
     display: flex;
