@@ -3338,23 +3338,18 @@ edia (min-width: 767px) {
         cursor: pointer;
         opacity: 0.5;
     }
-
         .v-chip__close > .v-icon:hover {
             opacity: 1;
         }
-
 .v-chip--disabled .v-chip__close {
     pointer-events: none;
 }
-
 .v-chip--select-multi {
     margin: 4px 4px 4px 0;
 }
-
 .v-chip .v-icon {
     color: inherit;
 }
-
 .v-chip .v-icon--right {
     margin-left: 12px;
     margin-right: -8px;
