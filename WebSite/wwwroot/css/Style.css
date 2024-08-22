@@ -3161,54 +3161,43 @@ edia (min-width: 767px) {
 .v-select__selection {
     max-width: 90%;
 }
-
 .v-select__selection--comma {
     align-items: center;
     display: inline-flex;
     margin: 7px 3px 7px 0;
 }
-
 .v-select__slot {
     position: relative;
     align-items: center;
     display: flex;
     width: 100%;
 }
-
 .v-select:not(.v-text-field--single-line) .v-select__slot > input {
     align-self: flex-end;
 }
-
 </style > <style type="text/css" > .theme--light.v-chip {
     background: #e0e0e0;
     color: rgba(0,0,0,0.87);
 }
-
 .theme--light.v-chip--disabled {
     color: rgba(0,0,0,0.38);
 }
-
 .theme--dark.v-chip {
     background: #555;
     color: #fff;
 }
-
 .theme--dark.v-chip--disabled {
     color: rgba(255,255,255,0.5);
 }
-
 .application--is-rtl .v-chip__close {
     margin: 0 8px 0 2px;
 }
-
 .application--is-rtl .v-chip--removable .v-chip__content {
     padding: 0 12px 0 4px;
 }
-
 .application--is-rtl .v-chip--select-multi {
     margin: 4px 0 4px 4px;
 }
-
 .application--is-rtl .v-chip .v-avatar {
     margin-right: -12px;
     margin-left: 8px;
