@@ -4719,27 +4719,23 @@ edia (min-width: 767px) {
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%)
 }
-
 .vue-slider-ttb .vue-slider-mark {
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%)
 }
-
 .vue-slider-ttb .vue-slider-mark-step {
     bottom: 0
 }
-
 .vue-slider-ttb .vue-slider-mark-label {
     bottom: 50%;
     -webkit-transform: translateY(50%);
     transform: translateY(50%)
 }
-
 .vue-slider-mark-label, .vue-slider-mark-step {
     position: absolute
 }
-
-</style > <style type="text/css" > .vue-slider {
+</style >
+<style type="text/css" > .vue-slider {
     position: relative;
     -webkit-box-sizing: content-box;
     box-sizing: content-box;
@@ -4750,7 +4746,6 @@ edia (min-width: 767px) {
     display: block;
     -webkit-tap-highlight-color: rgba(0,0,0,0)
 }
-
 .vue-slider-rail {
     position: relative;
     width: 100%;
@@ -4758,7 +4753,6 @@ edia (min-width: 767px) {
     -webkit-transition-property: width,height,left,right,top,bottom;
     transition-property: width,height,left,right,top,bottom
 }
-
 .vue-slider-process {
     position: absolute;
     z-index: 1
@@ -4863,7 +4857,6 @@ edia (min-width: 767px) {
     justify-content: space-between;
     align-items: center
 }
-
     .segment[data-v-4086fdd9]:last-child {
         margin-top: 12px;
         padding-top: 12px;
@@ -4907,11 +4900,9 @@ edia (min-width: 767px) {
     justify-content: space-between;
     margin-top: 12px
 }
-
 .segment__airports_options[data-v-4086fdd9] {
     margin-top: 8px
 }
-
 .segment__airport[data-v-4086fdd9] {
     font-weight: 600;
     font-size: 9px;
@@ -4919,7 +4910,6 @@ edia (min-width: 767px) {
     color: #03a9f4;
     transition: .3s
 }
-
 .segment__airport_hover[data-v-4086fdd9] {
     color: #ff6f32
 }
