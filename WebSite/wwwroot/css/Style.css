@@ -5531,11 +5531,9 @@ td.disabled[data-v-155e681b] {
     -moz-appearance: menulist;
     appearance: menulist
 }
-
 .monthselect[data-v-155e681b] {
     border: none
 }
-
 .daterangepicker .ranges {
     text-align: left;
     margin: 0;
@@ -5552,17 +5550,14 @@ td.disabled[data-v-155e681b] {
         padding: 8px 12px;
         cursor: pointer
     }
-
-        .daterangepicker .ranges li:hover {
+       .daterangepicker .ranges li:hover {
             background-color: #eee;
             color: #000
         }
-
         .daterangepicker .ranges li.active {
             background-color: #08c;
             color: #fff
         }
-
 .daterangepicker .monthselect, .daterangepicker .yearselect {
     font-size: 12px;
     padding: 1px;
@@ -5575,7 +5570,6 @@ td.disabled[data-v-155e681b] {
 .daterangepicker .monthselect {
     margin-right: 1rem
 }
-
 .daterangepicker .calendar-time {
     text-align: center;
     margin: 4px auto 0;
@@ -5601,7 +5595,6 @@ td.disabled[data-v-155e681b] {
     outline: 0;
     font-size: 12px
 }
-
 .daterangepicker .drp-buttons .btn {
     margin-left: 8px;
     font-size: 12px;
@@ -5619,12 +5612,10 @@ td.disabled[data-v-155e681b] {
     background-color: transparent;
     border: 1px solid transparent
 }
-
 .daterangepicker .btn-primary, .daterangepicker .btn-success {
     background-color: #28a745;
     color: #fff
 }
-
 .daterangepicker .btn-secondary {
     background-color: #6c757d;
     color: #fff
