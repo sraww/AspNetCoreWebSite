@@ -7635,7 +7635,6 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     z-index: 2;
     width: 240px
 }
-
 .currency-popup__title[data-v-b8494efc] {
     font-size: 14px;
     font-weight: 700;
@@ -7645,7 +7644,6 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     text-align: center;
     width: 100%
 }
-
 .currency-popup__item[data-v-b8494efc] {
     font-size: 12px;
     line-height: 16px;
@@ -7653,12 +7651,10 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     margin-bottom: 16px;
     cursor: pointer
 }
-
 .currency-popup__item_active[data-v-b8494efc] {
     font-weight: 600;
     color: #5b678a
 }
-
 .locale-popup[data-v-2192016f] {
     position: fixed;
     right: 24px;
@@ -7670,7 +7666,6 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     z-index: 2;
     width: 240px
 }
-
 .locale-popup__item[data-v-2192016f] {
     font-size: 12px;
     line-height: 16px;
@@ -7678,12 +7673,10 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     margin-bottom: 16px;
     cursor: pointer
 }
-
 .locale-popup__item_active[data-v-2192016f] {
     font-weight: 600;
     color: #5b678a
 }
-
 .popup[data-v-0f506de8] {
     position: fixed;
     top: 0;
