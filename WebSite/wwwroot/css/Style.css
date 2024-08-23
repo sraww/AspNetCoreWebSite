@@ -406,7 +406,6 @@ edia (min-width: 767px) {
     padding-top: 12px;
     margin-top: 4px;
 }
-
     .v-text-field input {
         flex: 1 1 auto;
         line-height: 20px;
@@ -415,7 +414,6 @@ edia (min-width: 767px) {
         min-width: 0px;
         width: 100%;
     }
-
     .v-text-field .v-input__prepend-inner,
     .v-text-field .v-input__append-inner {
         align-self: flex-start;
@@ -424,23 +422,19 @@ edia (min-width: 767px) {
         line-height: 1;
         user-select: none;
     }
-
     .v-text-field .v-input__prepend-inner {
         margin-right: auto;
         padding-right: 3px;
     }
-
     .v-text-field .v-input__append-inner {
         margin-left: auto;
         padding-left: 4px;
     }
-
     .v-text-field .v-counter {
         margin-left: 8px;
         white-space: nowrap;
     }
-
-    .v-text-field .v-label {
+   .v-text-field .v-label {
         max-width: 90%;
         overflow: hidden;
         text-overflow: ellipsis;
