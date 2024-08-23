@@ -295,15 +295,12 @@ edia (min-width: 767px) {
 .theme--dark.v-text-field > .v-input__control > .v-input__slot:before {
     border-color: rgba(255,255,255,0.7);
 }
-
 .theme--dark.v-text-field:not(.v-input--has-state) > .v-input__control > .v-input__slot:hover:before {
     border-color: #fff;
 }
-
 .theme--dark.v-text-field.v-input--is-disabled > .v-input__control > .v-input__slot:before {
     border-image: repeating-linear-gradient(to right, rgba(255,255,255,0.5) 0px, rgba(255,255,255,0.5) 2px, transparent 2px, transparent 4px) 1 repeat;
 }
-
     .theme--dark.v-text-field.v-input--is-disabled > .v-input__control > .v-input__slot:before .v-text-field__prefix,
     .theme--dark.v-text-field.v-input--is-disabled > .v-input__control > .v-input__slot:before .v-text-field__suffix {
         color: rgba(255,255,255,0.5);
