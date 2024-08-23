@@ -1080,31 +1080,25 @@ v-select {
     pointer-events: auto;
     transition-delay: 0.1s;
 }
-
 .v-menu-transition-leave-active,
 .v-menu-transition-leave-to {
     pointer-events: none;
 }
-
 .v-menu-transition-enter,
 .v-menu-transition-leave-to {
     opacity: 0;
 }
-
 .v-menu-transition-enter-active,
 .v-menu-transition-leave-active {
     transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
-
 .v-menu-transition-enter.v-menu__content--auto {
     transition: none !important;
 }
-
-    .v-menu-transition-enter.v-menu__content--auto .v-list__tile {
+    .vmenu-transition-enter.v-menu__content--auto .v-list__tile {
         opacity: 0;
         transform: translateY(-15px);
     }
-
     .v-menu-transition-enter.v-menu__content--auto .v-list__tile--active {
         opacity: 1;
         transform: none !important;
