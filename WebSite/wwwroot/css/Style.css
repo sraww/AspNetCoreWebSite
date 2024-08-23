@@ -794,52 +794,41 @@ v-select {
 .v-select:not(.v-text-field--single-line) .v-select__slot > input {
     align-self: flex-end;
 }
-
 </style > <style type="text/css" > .theme--light.v-chip {
     background: #e0e0e0;
     color: rgba(0,0,0,0.87);
 }
-
 .theme--light.v-chip--disabled {
     color: rgba(0,0,0,0.38);
 }
-
 .theme--dark.v-chip {
     background: #555;
     color: #fff;
 }
-
 .theme--dark.v-chip--disabled {
     color: rgba(255,255,255,0.5);
 }
-
 .application--is-rtl .v-chip__close {
     margin: 0 8px 0 2px;
 }
-
 .application--is-rtl .v-chip--removable .v-chip__content {
     padding: 0 12px 0 4px;
 }
-
 .application--is-rtl .v-chip--select-multi {
     margin: 4px 0 4px 4px;
 }
-
 .application--is-rtl .v-chip .v-avatar {
     margin-right: -12px;
     margin-left: 8px;
 }
-
 .application--is-rtl .v-chip .v-icon--right {
     margin-right: 12px;
     margin-left: -8px;
 }
-
 .application--is-rtl .v-chip .v-icon--left {
     margin-right: -8px;
     margin-left: 12px;
 }
-
 .v-chip {
     align-items: center;
     border-radius: 28px;
@@ -851,7 +840,6 @@ v-select {
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
     vertical-align: middle;
 }
-
     .v-chip .v-chip__content {
         align-items: center;
         border-radius: 28px;
@@ -868,7 +856,6 @@ v-select {
 .v-chip--removable .v-chip__content {
     padding: 0 4px 0 12px;
 }
-
 .v-chip .v-avatar {
     height: 32px !important;
     margin-left: -12px;
