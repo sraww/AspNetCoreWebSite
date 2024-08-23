@@ -1473,57 +1473,45 @@ v-select {
     background: #424242;
     color: #fff;
 }
-
     .theme--dark.v-list .v-list--disabled {
         color: rgba(255,255,255,0.5);
     }
-
     .theme--dark.v-list .v-list__tile__sub-title {
         color: rgba(255,255,255,0.7);
     }
-
     .theme--dark.v-list .v-list__tile__mask {
         color: rgba(255,255,255,0.5);
         background: #494949;
     }
-
     .theme--dark.v-list .v-list__tile--link:hover,
     .theme--dark.v-list .v-list__tile--highlighted,
     .theme--dark.v-list .v-list__group__header:hover {
         background: rgba(255,255,255,0.08);
     }
-
     .theme--dark.v-list .v-list__group--active:before,
     .theme--dark.v-list .v-list__group--active:after {
         background: rgba(255,255,255,0.12);
     }
-
     .theme--dark.v-list .v-list__group--disabled .v-list__tile {
         color: rgba(255,255,255,0.5) !important;
     }
-
     .theme--dark.v-list .v-list__group--disabled .v-list__group__header__prepend-icon .v-icon {
         color: rgba(255,255,255,0.5) !important;
     }
-
 .application--is-rtl .v-list__tile__title {
     text-align: right;
 }
-
 .application--is-rtl .v-list__tile__content {
     text-align: right;
 }
-
 .v-list {
     list-style-type: none;
     padding: 8px 0 8px;
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
 }
-
     .v-list > div {
         transition: inherit;
     }
-
 .v-list__tile {
     align-items: center;
     color: inherit;
@@ -1537,17 +1525,14 @@ v-select {
     text-decoration: none;
     transition: background 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
 }
-
 .v-list__tile--link {
     cursor: pointer;
     user-select: none;
 }
-
 .v-list__tile__content,
 .v-list__tile__action {
     height: 100%;
 }
-
 .v-list__tile__title,
 .v-list__tile__sub-title {
     white-space: nowrap;
@@ -1556,31 +1541,27 @@ v-select {
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
     width: 100%;
 }
-
 .v-list__tile__title {
     height: 24px;
     line-height: 24px;
     position: relative;
     text-align: left;
 }
-
 .v-list__tile__sub-title {
     font-size: 14px;
 }
-
 .v-list__tile__avatar {
     display: flex;
     justify-content: flex-start;
     min-width: 56px;
 }
-
 .v-list__tile__action {
     display: flex;
     justify-content: flex-start;
     min-width: 56px;
     align-items: center;
 }
-    .v-list__tile__action .v-btn {
+   .v-list__tile__action .v-btn {
         padding: 0;
         margin: 0;
     }
