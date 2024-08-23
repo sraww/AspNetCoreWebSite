@@ -2677,26 +2677,21 @@ v-select {
     margin-left: 16px;
     margin-right: 0;
 }
-
 .application--is-rtl .v-text-field--reverse input {
     text-align: left;
 }
-
 .application--is-rtl .v-text-field--reverse .v-label {
     transform-origin: top left;
 }
-
 .application--is-rtl .v-text-field__prefix {
     text-align: left;
     padding-right: 0;
     padding-left: 4px;
 }
-
 .application--is-rtl .v-text-field__suffix {
     padding-left: 0;
     padding-right: 4px;
 }
-
 .application--is-rtl .v-text-field--reverse .v-text-field__prefix {
     text-align: right;
     padding-left: 0;
