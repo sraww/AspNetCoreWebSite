@@ -907,17 +907,14 @@ v-select {
 .v-chip--small {
     height: 24px !important;
 }
-
     .v-chip--small .v-avatar {
         height: 24px !important;
         min-width: 24px;
         width: 24px !important;
     }
-
     .v-chip--small .v-icon {
         font-size: 20px;
     }
-
 .v-chip__close {
     align-items: center;
     color: inherit;
@@ -927,40 +924,32 @@ v-select {
     text-decoration: none;
     user-select: none;
 }
-
     .v-chip__close > .v-icon {
         color: inherit !important;
         font-size: 20px;
         cursor: pointer;
         opacity: 0.5;
     }
-
         .v-chip__close > .v-icon:hover {
             opacity: 1;
         }
-
 .v-chip--disabled .v-chip__close {
     pointer-events: none;
 }
-
 .v-chip--select-multi {
     margin: 4px 4px 4px 0;
 }
-
 .v-chip .v-icon {
     color: inherit;
 }
-
 .v-chip .v-icon--right {
     margin-left: 12px;
     margin-right: -8px;
 }
-
 .v-chip .v-icon--left {
     margin-left: -8px;
     margin-right: 12px;
 }
-
 </style > <style type="text/css" >/* Themes */
 .theme--light.v-icon {
     color: rgba(0,0,0,0.54);
@@ -973,11 +962,9 @@ v-select {
 .theme--dark.v-icon {
     color: #fff;
 }
-
     .theme--dark.v-icon.v-icon--disabled {
         color: rgba(255,255,255,0.5) !important;
     }
-
 .v-icon {
     align-items: center;
     display: inline-flex;
