@@ -1048,7 +1048,6 @@ v-select {
     .v-menu__activator * {
         cursor: pointer;
     }
-
 .v-menu__content {
     position: absolute;
     display: inline-block;
@@ -1060,29 +1059,23 @@ v-select {
     will-change: transform;
     box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2), 0px 8px 10px 1px rgba(0,0,0,0.14), 0px 3px 14px 2px rgba(0,0,0,0.12);
 }
-
 .v-menu__content--active {
     pointer-events: none;
 }
-
 .v-menu__content--fixed {
     position: fixed;
 }
-
 .v-menu__content > .card {
     contain: content;
     backface-visibility: hidden;
 }
-
 .v-menu > .v-menu__content {
     max-width: none;
 }
-
 .v-menu-transition-enter .v-list__tile {
     min-width: 0;
     pointer-events: none;
 }
-
 .v-menu-transition-enter-to .v-list__tile {
     pointer-events: auto;
     transition-delay: 0.1s;
