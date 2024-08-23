@@ -4557,7 +4557,6 @@ v-select {
         left: -8%;
     }
 }
-
 @keyframes query-short {
     0% {
         right: -200%;
@@ -4574,14 +4573,13 @@ v-select {
         left: -8%;
     }
 }
-
-</style > <style type="text/css" > .vue-slider-dot {
+</style > 
+<style type="text/css" > .vue-slider-dot {
     position: absolute;
     -webkit-transition: all 0s;
     transition: all 0s;
     z-index: 5
 }
-
 .vue-slider-dot:focus {
     outline: none
 }
