@@ -3535,7 +3535,6 @@ v-select {
     .v-input input {
         max-height: 32px;
     }
-
         .v-input input:invalid,
         .v-input textarea:invalid {
             box-shadow: none;
@@ -3547,12 +3546,10 @@ v-select {
         .v-input textarea:active {
             outline: none;
         }
-
     .v-input .v-label {
         height: 20px;
         line-height: 20px;
     }
-
 .v-input__append-outer,
 .v-input__prepend-outer {
     display: inline-flex;
