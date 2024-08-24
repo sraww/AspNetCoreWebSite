@@ -4811,7 +4811,6 @@ v-select {
     text-align: center;
     position: fixed
 }
-
 .card[data-v-d0fcb826] {
     border: 1px solid #c5d3e0;
     border-radius: 8px;
@@ -4824,7 +4823,6 @@ v-select {
     background-color: #fff;
     position: relative
 }
-
 .card__title[data-v-d0fcb826] {
     position: absolute;
     top: -14px;
@@ -4833,7 +4831,6 @@ v-select {
     color: #fff;
     font-size: 12px
 }
-
 .card__content[data-v-d0fcb826] {
     width: 100%;
     display: flex;
