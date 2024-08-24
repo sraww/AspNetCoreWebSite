@@ -4694,7 +4694,6 @@ v-select {
     line-height: 16px;
     margin-bottom: 0
 }
-
 .segment[data-v-4086fdd9] {
     display: flex;
     position: relative;
@@ -4762,7 +4761,6 @@ v-select {
 .segment__time[data-v-4086fdd9] {
     font-size: 12px
 }
-
 .segment__popup[data-v-4086fdd9] {
     position: absolute;
     font-size: 12px;
@@ -4777,15 +4775,12 @@ v-select {
     width: max-content;
     max-width: 300px
 }
-
 .segment__popup_department[data-v-4086fdd9] {
     margin-left: -150px
 }
-
 .carrier[data-v-194923c5] {
     position: relative
 }
-
 .carrier__logo[data-v-194923c5] {
     align-self: flex-start;
     width: 35px;
@@ -4793,18 +4788,15 @@ v-select {
     margin-right: 8px;
     border-radius: 35px
 }
-
 .carrier__logo_card[data-v-194923c5] {
     height: 24px;
     width: 24px;
     border-radius: 24px;
     margin-right: 0
 }
-
     .carrier__logo_card[data-v-194923c5]:not(:first-child) {
         margin-top: 8px
     }
-
 .carrier__popup[data-v-194923c5] {
     font-size: 12px;
     z-index: 5;
