@@ -1987,41 +1987,34 @@ v-select {
         right: -8%;
     }
 }
-
 @-o-keyframes indeterminate-short {
     0% {
         left: -200%;
         right: 100%;
     }
-
     60% {
         left: 107%;
         right: -8%;
     }
-
     100% {
         left: 107%;
         right: -8%;
     }
 }
-
 @keyframes indeterminate-short {
     0% {
         left: -200%;
         right: 100%;
     }
-
     60% {
         left: 107%;
         right: -8%;
     }
-
     100% {
         left: 107%;
         right: -8%;
     }
 }
-
 @-moz-keyframes query {
     0% {
         right: -90%;
