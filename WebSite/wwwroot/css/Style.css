@@ -176,7 +176,6 @@ edia (min-width: 767px) {
 .v-card__title--primary {
     padding-top: 24px;
 }
-
 .v-card__text {
     padding: 15px;
     width: 100%;
@@ -225,7 +224,6 @@ edia (min-width: 767px) {
 .v-autocomplete.v-text-field--enclosed:not(.v-text-field--solo):not(.v-text-field--single-line) .v-select__slot > input {
     margin-top: 24px;
 }
-
 .v-autocomplete:not(.v-input--is-disabled).v-select.v-text-field input {
     pointer-events: inherit;
 }
