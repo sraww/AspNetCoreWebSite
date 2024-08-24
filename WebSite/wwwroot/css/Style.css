@@ -2930,15 +2930,12 @@ v-select {
 .v-text-field.v-text-field--solo .v-input__append-outer {
     margin-top: 12px;
 }
-
 .v-text-field.v-input--is-focused > .v-input__control > .v-input__slot:after {
     transform: scaleX(1);
 }
-
 .v-text-field.v-input--has-state > .v-input__control > .v-input__slot:before {
     border-color: currentColor;
 }
-
 </style > <style type="text/css" > .theme--light.v-select .v-select__selections {
     color: rgba(0,0,0,0.87);
 }
