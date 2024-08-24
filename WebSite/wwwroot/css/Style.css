@@ -3386,22 +3386,18 @@ v-select {
     margin-top: 16px;
     padding-top: 4px;
 }
-
     .v-input--selection-controls .v-input__append-outer,
     .v-input--selection-controls .v-input__prepend-outer {
         margin-top: 0;
         margin-bottom: 0;
     }
-
     .v-input--selection-controls .v-input__control {
         flex-grow: 0;
         width: auto;
     }
-
     .v-input--selection-controls:not(.v-input--hide-details) .v-input__slot {
         margin-bottom: 12px;
     }
-
 .v-input--selection-controls__input {
     color: inherit;
     display: inline-flex;
