@@ -386,13 +386,11 @@ edia (min-width: 767px) {
     padding-left: 0;
     padding-right: 4px;
 }
-
 .application--is-rtl .v-text-field--reverse .v-text-field__prefix {
     text-align: right;
     padding-left: 0;
     padding-right: 4px;
 }
-
 .application--is-rtl .v-text-field--reverse .v-text-field__suffix {
     padding-left: 0;
     padding-right: 4px;
