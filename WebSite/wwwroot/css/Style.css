@@ -623,11 +623,9 @@ edia (min-width: 767px) {
         border: 2px solid currentColor;
         transition: border 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
     }
-
 .v-text-field.v-text-field--solo .v-label {
     top: calc(50% - 10px);
 }
-
 .v-text-field.v-text-field--solo .v-input__control {
     min-height: 48px;
     padding: 0;
