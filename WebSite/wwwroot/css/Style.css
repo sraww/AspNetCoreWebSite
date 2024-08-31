@@ -6067,27 +6067,22 @@ td.disabled[data-v-155e681b] {
     text-align: center;
     width: 50%
 }
-
 .class-picker__btn_active[data-v-ab09fb6e] {
     background-color: #03a9f4;
     color: #fff
 }
-
 .class-picker__btn[data-v-ab09fb6e]:first-child {
     border-right: 1px solid #c5d3e0
 }
-
 .vb[data-v-efc0f8d2] {
     height: 100%
 }
-
 .vb > .vb-dragger[data-v-efc0f8d2] {
     z-index: 5;
     width: 5px;
     right: 2px;
     cursor: pointer
 }
-
 .vb > .vb-dragger > .vb-dragger-styler[data-v-efc0f8d2] {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -6101,26 +6096,21 @@ td.disabled[data-v-155e681b] {
     height: 90%;
     display: block
 }
-
 .vb.vb-scrolling-phantom > .vb-dragger > .vb-dragger-styler[data-v-efc0f8d2] {
     background-color: rgba(0,0,0,.1)
 }
-
 .vb.vb-dragging > .vb-dragger > .vb-dragger-styler[data-v-efc0f8d2], .vb > .vb-dragger:hover > .vb-dragger-styler[data-v-efc0f8d2] {
     background-color: rgba(0,0,0,.25);
     margin: 0;
     height: 100%
 }
-
 .vb.vb-dragging-phantom > .vb-dragger > .vb-dragger-styler[data-v-efc0f8d2] {
     background-color: rgba(0,0,0,.25)
 }
-
 @keyframes rotate-data-v-efc0f8d2 {
     0% {
         transform: rotate(0)
     }
-
     to {
         transform: rotate(1turn)
     }
