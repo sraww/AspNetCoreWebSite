@@ -1701,27 +1701,22 @@ v-select {
     display: flex;
     list-style-type: none;
 }
-
     .v-list__group__header > div:not(.v-list__group__header__prepend-icon):not(.v-list__group__header__append-icon) {
         flex: 1 1 auto;
         overflow: hidden;
     }
-
     .v-list__group__header .v-list__group__header__append-icon,
     .v-list__group__header .v-list__group__header__prepend-icon {
         padding: 0 16px;
         user-select: none;
-    }
-
+   }
 .v-list__group__header--sub-group {
     align-items: center;
     display: flex;
 }
-
-    .v-list__group__header--sub-group div .v-list__tile {
+   .v-list__group__header--sub-group div .v-list__tile {
         padding-left: 0;
     }
-
     .v-list__group__header--sub-group .v-list__group__header__prepend-icon {
         padding: 0 0 0 40px;
         margin-right: 8px;
