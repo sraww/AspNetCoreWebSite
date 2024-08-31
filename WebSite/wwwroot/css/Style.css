@@ -5563,7 +5563,6 @@ td.disabled[data-v-155e681b] {
     .daterangepicker td.end-date {
         border-radius: 0 4px 4px 0
     }
-
     .daterangepicker td.start-date.end-date {
         border-radius: 4px
     }
@@ -5572,21 +5571,17 @@ td.disabled[data-v-155e681b] {
         border-color: transparent;
         color: #fff
     }
-
     .daterangepicker th.month {
         width: auto
     }
-
     .daterangepicker option.disabled, .daterangepicker td.disabled {
         color: #999;
         cursor: not-allowed;
         text-decoration: line-through
     }
-
     .daterangepicker select.yearselect {
         width: 40%
     }
-
     .daterangepicker .drp-buttons {
         clear: both;
         text-align: right;
@@ -5596,14 +5591,12 @@ td.disabled[data-v-155e681b] {
         line-height: 12px;
         vertical-align: middle
     }
-
     .daterangepicker .drp-selected {
         display: inline-block;
         font-size: 12px;
         padding-right: 8px
     }
-
-    .daterangepicker.show-ranges .drp-calendar.left {
+   .daterangepicker.show-ranges .drp-calendar.left {
         border-left: 1px solid #ddd
     }
 
