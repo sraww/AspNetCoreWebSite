@@ -3701,31 +3701,25 @@ v-select {
 .theme--light.v-list .v-list__tile__sub-title {
     color: rgba(0,0,0,0.54);
 }
-
 .theme--light.v-list .v-list__tile__mask {
     color: rgba(0,0,0,0.38);
     background: #eee;
 }
-
 .theme--light.v-list .v-list__tile--link:hover,
 .theme--light.v-list .v-list__tile--highlighted,
 .theme--light.v-list .v-list__group__header:hover {
     background: rgba(0,0,0,0.04);
 }
-
 .theme--light.v-list .v-list__group--active:before,
 .theme--light.v-list .v-list__group--active:after {
     background: rgba(0,0,0,0.12);
 }
-
 .theme--light.v-list .v-list__group--disabled .v-list__tile {
     color: rgba(0,0,0,0.38) !important;
 }
-
 .theme--light.v-list .v-list__group--disabled .v-list__group__header__prepend-icon .v-icon {
     color: rgba(0,0,0,0.38) !important;
 }
-
 .theme--dark.v-list {
     background: #424242;
     color: #fff;
