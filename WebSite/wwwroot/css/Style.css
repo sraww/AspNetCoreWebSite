@@ -4812,17 +4812,14 @@ v-select {
 .card .segment__duration[data-v-d0fcb826] {
     margin-right: 24px
 }
-
 .card .segment__arrival-airport[data-v-d0fcb826], .card .segment__arrival-time[data-v-d0fcb826] {
     margin-right: 16px
 }
-
 .card__buy[data-v-d0fcb826] {
     display: flex;
     flex-direction: column;
     margin-left: 16px
 }
-
 .card__price[data-v-d0fcb826] {
     font-weight: 600;
     font-size: 20px;
@@ -4831,11 +4828,9 @@ v-select {
     text-align: center;
     white-space: nowrap
 }
-
 .card__price_red[data-v-d0fcb826] {
     color: #ef0000
 }
-
 .card .cta[data-v-d0fcb826] {
     display: flex;
     padding: 8px 16px;
