@@ -348,11 +348,9 @@ edia (min-width: 767px) {
 .theme--dark.v-text-field--outline:not(.v-input--is-focused):not(.v-input--has-state) > .v-input__control > .v-input__slot:hover {
     border: 2px solid #fff;
 }
-
 .application--is-rtl .v-text-field .v-label {
     transform-origin: top right;
 }
-
 .application--is-rtl .v-text-field .v-counter {
     margin-left: 0;
     margin-right: 7px;
@@ -365,21 +363,17 @@ edia (min-width: 767px) {
     margin-left: 16px;
     margin-right: 0;
 }
-
 .application--is-rtl .v-text-field--reverse input {
     text-align: left;
 }
-
 .application--is-rtl .v-text-field--reverse .v-label {
     transform-origin: top left;
 }
-
 .application--is-rtl .v-text-field__prefix {
     text-align: left;
     padding-right: 0;
     padding-left: 4px;
 }
-
 .application--is-rtl .v-text-field__suffix {
     padding-left: 0;
     padding-right: 4px;
