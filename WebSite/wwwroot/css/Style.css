@@ -5059,7 +5059,6 @@ v-select {
     line-height: 16px !important;
     transition: .3s
 }
-
     .options .cta[data-v-69a536ca]:hover {
         background-color: #ffe600;
         box-shadow: 0 4px 11px rgba(10,22,70,.2)
@@ -5323,7 +5322,6 @@ td.disabled[data-v-155e681b] {
     cursor: default;
     width: 49%
 }
-
 .daterangepicker .monthselect {
     margin-right: 1rem
 }
@@ -5382,27 +5380,22 @@ td.disabled[data-v-155e681b] {
     -webkit-box-sizing: border-box;
     box-sizing: border-box
 }
-
 .drp-calendar .col .left {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 auto;
     flex: 0 0 auto
 }
-
 .daterangepicker.hide-calendars.show-ranges .ranges, .daterangepicker.hide-calendars.show-ranges .ranges ul {
     width: 100%
 }
-
 .daterangepicker .calendars-container {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex
 }
-
 .daterangepicker[readonly] {
     pointer-events: none
 }
-
 .daterangepicker {
     position: absolute;
     color: inherit;
