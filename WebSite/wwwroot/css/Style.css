@@ -4874,12 +4874,10 @@ v-select {
     transition: .3s;
     white-space: nowrap
 }
-
     .card .cta[data-v-d0fcb826]:hover {
         background-color: #ffe600;
         box-shadow: 0 4px 11px rgba(10,22,70,.2)
     }
-
 .refresh[data-v-f1cacf62] {
     display: flex;
     align-items: center;
@@ -4893,16 +4891,13 @@ v-select {
     margin-bottom: 16px;
     border-radius: 8px
 }
-
 .refresh_results[data-v-f1cacf62] {
     margin-top: 16px
 }
-
 .refresh__title[data-v-f1cacf62] {
     color: #fff;
     font-size: 14px
 }
-
 .refresh .cta[data-v-f1cacf62] {
     background-color: #ffd000;
     border-radius: 8px;
@@ -4917,23 +4912,19 @@ v-select {
     margin-left: 16px;
     transition: .3s
 }
-
     .refresh .cta[data-v-f1cacf62]:hover {
         background-color: #ffe600;
         box-shadow: 0 4px 11px rgba(10,22,70,.2)
     }
-
 .vb[data-v-69a536ca] {
     height: 100%
 }
-
 .vb > .vb-dragger[data-v-69a536ca] {
     z-index: 5;
     width: 4px;
     right: 2px;
     cursor: pointer
 }
-
 .vb > .vb-dragger > .vb-dragger-styler[data-v-69a536ca] {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -4947,21 +4938,17 @@ v-select {
     height: 90%;
     display: block
 }
-
 .vb.vb-scrolling-phantom > .vb-dragger > .vb-dragger-styler[data-v-69a536ca] {
     background-color: rgba(0,0,0,.1)
 }
-
 .vb.vb-dragging > .vb-dragger > .vb-dragger-styler[data-v-69a536ca], .vb > .vb-dragger:hover > .vb-dragger-styler[data-v-69a536ca] {
     background-color: rgba(0,0,0,.25);
     margin: 0;
     height: 100%
 }
-
 .vb.vb-dragging-phantom > .vb-dragger > .vb-dragger-styler[data-v-69a536ca] {
     background-color: rgba(0,0,0,.25)
 }
-
 @keyframes rotate-data-v-69a536ca {
     0% {
         transform: rotate(0)
