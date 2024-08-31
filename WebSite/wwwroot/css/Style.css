@@ -2808,28 +2808,23 @@ v-select {
             border-style: solid;
             border-width: thin 0 thin 0;
         }
-
 .v-text-field.v-text-field--enclosed {
     margin: 0;
     padding: 0;
 }
-
     .v-text-field.v-text-field--enclosed:not(.v-text-field--box) .v-progress-linear__background {
         display: none;
     }
-
     .v-text-field.v-text-field--enclosed .v-input__prepend-outer,
     .v-text-field.v-text-field--enclosed .v-input__prepend-inner,
     .v-text-field.v-text-field--enclosed .v-input__append-inner,
     .v-text-field.v-text-field--enclosed .v-input__append-outer {
         margin-top: 16px;
     }
-
     .v-text-field.v-text-field--enclosed .v-text-field__details,
     .v-text-field.v-text-field--enclosed > .v-input__control > .v-input__slot {
         padding: 0 12px;
     }
-
     .v-text-field.v-text-field--enclosed .v-text-field__details {
         margin-bottom: 8px;
     }
@@ -2837,16 +2832,13 @@ v-select {
 .v-text-field--reverse input {
     text-align: right;
 }
-
 .v-text-field--reverse .v-label {
     transform-origin: top right;
 }
-
 .v-text-field--reverse > .v-input__control > .v-input__slot,
 .v-text-field--reverse .v-text-field__slot {
     flex-direction: row-reverse;
 }
-
 .v-text-field--solo > .v-input__control > .v-input__slot:before,
 .v-text-field--outline > .v-input__control > .v-input__slot:before,
 .v-text-field--full-width > .v-input__control > .v-input__slot:before,
