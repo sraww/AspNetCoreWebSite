@@ -6000,11 +6000,9 @@ td.disabled[data-v-155e681b] {
 .date-picker td.start-date {
     border-radius: 28px 0 0 28px
 }
-
 .date-picker td.end-date {
     border-radius: 0 28px 28px 0
 }
-
 .passenger-row[data-v-91893044] {
     color: #5b678a;
     display: flex;
