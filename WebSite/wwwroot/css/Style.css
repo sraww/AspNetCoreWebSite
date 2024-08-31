@@ -5507,13 +5507,11 @@ td.disabled[data-v-155e681b] {
     .daterangepicker.auto-apply .drp-buttons {
         display: none
     }
-
     .daterangepicker .drp-calendar {
         display: none;
         max-width: 270px;
         width: 270px
     }
-
         .daterangepicker .drp-calendar.left {
             padding: 8px 0 8px 8px
         }
@@ -5521,11 +5519,9 @@ td.disabled[data-v-155e681b] {
         .daterangepicker .drp-calendar.right {
             padding: 8px
         }
-
         .daterangepicker .drp-calendar.single .calendar-table {
             border: none
         }
-
     .daterangepicker .calendar-table .next span, .daterangepicker .calendar-table .prev span {
         color: #fff;
         border: solid #000;
@@ -5534,7 +5530,6 @@ td.disabled[data-v-155e681b] {
         display: inline-block;
         padding: 3px
     }
-
     .daterangepicker .calendar-table .next span {
         transform: rotate(-45deg);
         -webkit-transform: rotate(-45deg)
