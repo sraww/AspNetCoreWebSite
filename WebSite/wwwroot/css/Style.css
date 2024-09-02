@@ -2037,103 +2037,85 @@ v-select {
         left: -35%;
     }
 }
-
 @-o-keyframes query {
     0% {
         right: -90%;
         left: 100%;
     }
-
     60% {
         right: -90%;
         left: 100%;
     }
-
     100% {
         right: 100%;
         left: -35%;
     }
 }
-
 @keyframes query {
     0% {
         right: -90%;
         left: 100%;
     }
-
     60% {
         right: -90%;
         left: 100%;
     }
-
     100% {
         right: 100%;
         left: -35%;
     }
 }
-
 @-moz-keyframes query-short {
     0% {
         right: -200%;
         left: 100%;
     }
-
     60% {
         right: 107%;
         left: -8%;
     }
-
     100% {
         right: 107%;
         left: -8%;
     }
 }
-
 @-webkit-keyframes query-short {
     0% {
         right: -200%;
         left: 100%;
     }
-
     60% {
         right: 107%;
         left: -8%;
     }
-
     100% {
         right: 107%;
         left: -8%;
     }
 }
-
 @-o-keyframes query-short {
     0% {
         right: -200%;
         left: 100%;
     }
-
     60% {
         right: 107%;
         left: -8%;
     }
-
     100% {
         right: 107%;
         left: -8%;
     }
 }
-
 @keyframes query-short {
     0% {
         right: -200%;
         left: 100%;
     }
-
     60% {
         right: 107%;
         left: -8%;
     }
-
     100% {
         right: 107%;
         left: -8%;
