@@ -932,11 +932,9 @@ v-select {
 .theme--light.v-icon {
     color: rgba(0,0,0,0.54);
 }
-
 .theme--light.v-icon.v-icon--disabled {
     color: rgba(0,0,0,0.38) !important;
 }
-
 .theme--dark.v-icon {
     color: #fff;
 }
@@ -957,39 +955,31 @@ v-select {
 .v-icon--right {
     margin-left: 16px;
 }
-
 .v-icon--left {
     margin-right: 16px;
 }
-
 .v-icon.v-icon.v-icon--link {
     cursor: pointer;
 }
-
 .v-icon--disabled {
     pointer-events: none;
     opacity: 0.6;
 }
-
 .v-icon--is-component {
     height: 23px;
 }
-
 </style > <style type="text/css" > .v-menu {
     display: block;
     vertical-align: middle;
 }
-
 .v-menu--inline {
     display: inline-block;
 }
-
 .v-menu__activator {
     align-items: center;
     cursor: pointer;
     display: flex;
 }
-
     .v-menu__activator * {
         cursor: pointer;
     }
@@ -1049,7 +1039,6 @@ v-select {
         transform: none !important;
         pointer-events: auto;
     }
-
 </style > <style type="text/css" >/** Theme */
 .theme--light.v-input--selection-controls.v-input--is-disabled .v-icon {
     color: rgba(0,0,0,0.26) !important;
@@ -1068,22 +1057,18 @@ v-select {
     margin-top: 16px;
     padding-top: 4px;
 }
-
     .v-input--selection-controls .v-input__append-outer,
     .v-input--selection-controls .v-input__prepend-outer {
         margin-top: 0;
         margin-bottom: 0;
     }
-
     .v-input--selection-controls .v-input__control {
         flex-grow: 0;
         width: auto;
     }
-
     .v-input--selection-controls:not(.v-input--hide-details) .v-input__slot {
         margin-bottom: 12px;
     }
-
 .v-input--selection-controls__input {
     color: inherit;
     display: inline-flex;
@@ -1096,7 +1081,6 @@ v-select {
     width: 24px;
     user-select: none;
 }
-
     .v-input--selection-controls__input input {
         position: absolute;
         opacity: 0;
@@ -1105,12 +1089,10 @@ v-select {
         cursor: pointer;
         user-select: none;
     }
-
     .v-input--selection-controls__input + .v-label {
         cursor: pointer;
         user-select: none;
     }
-
 .v-input--selection-controls__ripple {
     border-radius: 50%;
     cursor: pointer;
