@@ -3348,7 +3348,6 @@ v-select {
         cursor: pointer;
         user-select: none;
     }
-
 .v-input--selection-controls__ripple {
     border-radius: 50%;
     cursor: pointer;
@@ -3360,7 +3359,6 @@ v-select {
     top: calc(50% - 24px);
     margin: 7px;
 }
-
     .v-input--selection-controls__ripple:before {
         border-radius: inherit;
         bottom: 0;
@@ -3374,41 +3372,34 @@ v-select {
         transform: scale(0.2);
         transition: inherit;
     }
-
     .v-input--selection-controls__ripple .v-ripple__container {
         transform: scale(1.4);
     }
-
 .v-input--selection-controls.v-input .v-label {
     align-items: center;
     display: inline-flex;
     top: 0;
     height: auto;
 }
-
 .v-input--selection-controls.v-input--is-focused .v-input--selection-controls__ripple:before,
 .v-input--selection-controls .v-radio--is-focused .v-input--selection-controls__ripple:before {
     background: currentColor;
     transform: scale(0.8);
 }
-
 </style > <style type="text/css" >/* Theme */
 .theme--light.v-input:not(.v-input--is-disabled) input,
 .theme--light.v-input:not(.v-input--is-disabled) textarea {
     color: rgba(0,0,0,0.87);
 }
-
 .theme--light.v-input input::placeholder,
 .theme--light.v-input textarea::placeholder {
     color: rgba(0,0,0,0.38);
 }
-
 .theme--light.v-input--is-disabled .v-label,
 .theme--light.v-input--is-disabled input,
 .theme--light.v-input--is-disabled textarea {
     color: rgba(0,0,0,0.38);
 }
-
 .theme--dark.v-input:not(.v-input--is-disabled) input,
 .theme--dark.v-input:not(.v-input--is-disabled) textarea {
     color: #fff;
