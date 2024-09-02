@@ -3543,7 +3543,6 @@ v-select {
     min-width: 1px;
     position: relative;
 }
-
 .v-messages__message {
     line-height: normal;
     word-break: break-word;
@@ -3551,15 +3550,12 @@ v-select {
     word-wrap: break-word;
     hyphens: auto;
 }
-
 </style > <style type="text/css" > .theme--light.v-divider {
     border-color: rgba(0,0,0,0.12);
 }
-
 .theme--dark.v-divider {
     border-color: rgba(255,255,255,0.12);
 }
-
 .v-divider {
     display: block;
     flex: 1 1 0px;
@@ -3570,12 +3566,10 @@ v-select {
     border-width: thin 0 0 0;
     transition: inherit;
 }
-
 .v-divider--inset:not(.v-divider--vertical) {
     margin-left: 72px;
     max-width: calc(100% - 72px);
 }
-
 .v-divider--vertical {
     align-self: stretch;
     border: solid;
@@ -3600,7 +3594,6 @@ v-select {
 .theme--dark.v-subheader {
     color: rgba(255,255,255,0.7);
 }
-
 .v-subheader {
     align-items: center;
     display: flex;
@@ -3609,21 +3602,17 @@ v-select {
     font-weight: 500;
     padding: 0 16px 0 16px;
 }
-
 .v-subheader--inset {
     margin-left: 56px;
 }
-
 </style > <style type="text/css" >/* Themes */
 .theme--light.v-list {
     background: #fff;
     color: rgba(0,0,0,0.87);
 }
-
 .theme--light.v-list .v-list--disabled {
     color: rgba(0,0,0,0.38);
 }
-
 .theme--light.v-list .v-list__tile__sub-title {
     color: rgba(0,0,0,0.54);
 }
