@@ -6281,15 +6281,12 @@ td.disabled[data-v-155e681b] {
     padding: 16px;
     border-left: 1px solid #c5d3e0
 }
-
 .ticket__body_padding[data-v-706d7141] {
     padding-top: 22px
 }
-
 .ticket__carriers[data-v-706d7141] {
     display: flex
 }
-
 .cta[data-v-706d7141] {
     display: flex;
     padding: 8px 16px;
@@ -6309,7 +6306,6 @@ td.disabled[data-v-155e681b] {
     white-space: pre-line;
     transition: .3s
 }
-
     .cta[data-v-706d7141]:hover {
         background-color: #ffe600;
         box-shadow: 0 4px 11px rgba(10,22,70,.2)
