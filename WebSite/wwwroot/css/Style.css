@@ -6701,12 +6701,10 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     box-shadow: none !important;
     transition: .3s
 }
-
     .vue-slider-dot-handle:hover {
         border: 2px solid #03a9f4 !important;
         transform: scale(1.4)
     }
-
 .vue-slider-dot-tooltip {
     transition: .3s
 }
