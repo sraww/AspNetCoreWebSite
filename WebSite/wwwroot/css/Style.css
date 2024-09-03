@@ -6037,7 +6037,6 @@ td.disabled[data-v-155e681b] {
 .passenger-picker__arrow_active[data-v-efc0f8d2] {
     transform: rotate(180deg)
 }
-
 .passenger-picker__popup[data-v-efc0f8d2] {
     border: 1px solid #c5d3e0;
     border-radius: 10px;
@@ -6053,19 +6052,16 @@ td.disabled[data-v-155e681b] {
     padding-top: 20px;
     border-top: 1px solid #c5d3e0
 }
-
 .search[data-v-562eae40] {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: row
 }
-
 .search__field[data-v-562eae40] {
     width: 196px;
     height: 25px
 }
-
 .cta[data-v-562eae40] {
     display: flex;
     padding: 0 8px;
