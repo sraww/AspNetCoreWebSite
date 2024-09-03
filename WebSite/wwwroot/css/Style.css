@@ -6363,7 +6363,6 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     overflow: hidden;
     text-overflow: ellipsis
 }
-
 .checkbox__text_no-prompt[data-v-543ac00b] {
     width: 100%
 }
