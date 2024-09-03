@@ -5781,11 +5781,9 @@ td.disabled[data-v-155e681b] {
     .date-picker .drp-calendar.left {
         padding-left: 60px !important
     }
-
     .date-picker .drp-calendar.right {
         padding-right: 60px !important
     }
-
 .date-picker .next span, .date-picker .prev span {
     position: absolute;
     top: 180px;
@@ -5799,7 +5797,6 @@ td.disabled[data-v-155e681b] {
     transform: rotate(0deg) !important;
     -webkit-transform: rotate(0deg) !important
 }
-
 .date-picker .prev span {
     left: 20px
 }
@@ -5830,7 +5827,6 @@ td.disabled[data-v-155e681b] {
     width: 100%;
     height: 100%
 }
-
 .date-picker .vue-daterange-picker {
     width: 100%;
     height: 100%;
@@ -5838,7 +5834,6 @@ td.disabled[data-v-155e681b] {
     top: 0;
     left: 0
 }
-
 .date-picker .drp-buttons {
     display: flex !important;
     align-items: center;
