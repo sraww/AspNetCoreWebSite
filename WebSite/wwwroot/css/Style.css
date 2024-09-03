@@ -5329,14 +5329,12 @@ td.disabled[data-v-155e681b] {
     font-size: 15px;
     line-height: 1em
 }
-
     .daterangepicker:after, .daterangepicker:before {
         position: absolute;
         display: inline-block;
         border-bottom-color: rgba(0,0,0,.2);
         content: ""
     }
-
     .daterangepicker:before {
         top: -7px;
         border-right: 7px solid transparent;
@@ -5383,11 +5381,9 @@ td.disabled[data-v-155e681b] {
             border-bottom: initial;
             border-top: 6px solid #fff
         }
-
     .daterangepicker.single .drp-selected {
         display: none
     }
-
     .daterangepicker.show-calendar .drp-buttons, .daterangepicker.show-calendar .drp-calendar {
         display: block
     }
