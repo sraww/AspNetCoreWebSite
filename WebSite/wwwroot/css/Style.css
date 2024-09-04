@@ -5414,7 +5414,6 @@ td.disabled[data-v-155e681b] {
         transform: rotate(135deg);
         -webkit-transform: rotate(135deg)
     }
-
     .daterangepicker .calendar-table td, .daterangepicker .calendar-table th {
         white-space: nowrap;
         text-align: center;
@@ -5428,13 +5427,11 @@ td.disabled[data-v-155e681b] {
         border: 1px solid transparent;
         cursor: pointer
     }
-
     .daterangepicker .calendar-table {
         border: 1px solid #fff;
         border-radius: 4px;
         background-color: #fff
     }
-
         .daterangepicker .calendar-table table {
             width: 100%;
             margin: 0;
