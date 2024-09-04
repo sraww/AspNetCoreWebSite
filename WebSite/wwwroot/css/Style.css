@@ -6291,7 +6291,6 @@ td.disabled[data-v-155e681b] {
         background-color: #ffe600;
         box-shadow: 0 4px 11px rgba(10,22,70,.2)
     }
-
 .checkbox[data-v-543ac00b] {
     display: flex;
     position: relative;
@@ -6303,11 +6302,9 @@ td.disabled[data-v-155e681b] {
     padding: 4px 0;
     border-radius: 4px
 }
-
     .checkbox[data-v-543ac00b]:hover {
         background-color: rgba(3,169,244,.2)
     }
-
 .checkbox input[data-v-543ac00b] {
     position: absolute;
     opacity: 0;
@@ -6385,12 +6382,10 @@ input:checked ~ .checkbox__mark[data-v-543ac00b] {
     .vue-slider-dot:focus {
         outline: none
     }
-
 .vue-slider-dot-tooltip {
     position: absolute;
     visibility: hidden
 }
-
 .vue-slider-dot-hover:hover .vue-slider-dot-tooltip, .vue-slider-dot-tooltip-show {
     visibility: visible
 }
