@@ -5442,18 +5442,15 @@ td.disabled[data-v-155e681b] {
             border-collapse: collapse;
             display: table
         }
-
     .daterangepicker td.available:hover, .daterangepicker th.available:hover {
         background-color: #eee;
         border-color: transparent;
         color: inherit
     }
-
     .daterangepicker td.week, .daterangepicker th.week {
         font-size: 80%;
         color: #ccc
     }
-
     .daterangepicker td.off, .daterangepicker td.off.end-date, .daterangepicker td.off.in-range, .daterangepicker td.off.start-date {
         background-color: #fff;
         border-color: transparent;
@@ -5534,18 +5531,15 @@ td.disabled[data-v-155e681b] {
             direction: ltr;
             text-align: left
         }
-
             .daterangepicker.ltr .drp-calendar.left {
                 clear: left;
                 margin-right: 0
             }
-
                 .daterangepicker.ltr .drp-calendar.left .calendar-table {
                     border-right: none;
                     border-top-right-radius: 0;
                     border-bottom-right-radius: 0
-                }
-
+               }
             .daterangepicker.ltr .drp-calendar.right {
                 margin-left: 0
             }
