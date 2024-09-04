@@ -5737,20 +5737,16 @@ td.disabled[data-v-155e681b] {
     display: inline-block;
     min-width: 60px
 }
-
 .vue-daterange-picker .show-ranges.hide-calendars[data-v-4391f606] {
     width: 150px;
     min-width: 150px
 }
-
 .inline .daterangepicker[data-v-4391f606] {
     position: static
 }
-
     .inline .daterangepicker[data-v-4391f606]:after, .inline .daterangepicker[data-v-4391f606]:before {
         display: none
     }
-
 .date-picker {
     width: 392px;
     height: 25px;
