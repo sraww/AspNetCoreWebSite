@@ -3919,15 +3919,12 @@ v-select {
 .v-list__group__header--active .v-list__group__header__append-icon .v-icon {
     transform: rotate(-180deg);
 }
-
 .v-list__group__header--active .v-list__group__header__prepend-icon .v-icon {
     color: inherit;
 }
-
 .v-list__group__header--active.v-list__group__header--sub-group .v-list__group__header__prepend-icon .v-icon {
     transform: rotate(-180deg);
 }
-
 .v-list__group__items {
     position: relative;
     padding: 0;
