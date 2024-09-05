@@ -490,7 +490,6 @@ edia (min-width: 767px) {
     flex: 1 1 auto;
     position: relative;
 }
-
 .v-text-field--box,
 .v-text-field--full-width,
 .v-text-field--outline {
