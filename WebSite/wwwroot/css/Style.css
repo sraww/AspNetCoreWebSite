@@ -3370,14 +3370,12 @@ v-select {
     font-size: 16px;
     text-align: left;
 }
-
     .v-input .v-progress-linear {
         top: calc(100% - 1px);
         left: 0;
         margin: 0;
         position: absolute;
     }
-
     .v-input input {
         max-height: 32px;
     }
@@ -3385,7 +3383,6 @@ v-select {
         .v-input textarea:invalid {
             box-shadow: none;
         }
-
         .v-input input:focus,
         .v-input textarea:focus,
         .v-input input:active,
