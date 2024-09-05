@@ -9,8 +9,7 @@ body {
     color: rgb(var(--bs-tertiary-color-rgb));
 }
 /* CUSTOMIZE THE CAROUSEL
-    
--------------------------------------------------- */
+    -------------------------------------------------- */
     /* Carousel base class */
     
     .carousel {
