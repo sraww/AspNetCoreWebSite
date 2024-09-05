@@ -1845,7 +1845,6 @@ v-select {
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
-
 @-moz-keyframes indeterminate {
     0% {
         left: -90%;
