@@ -2981,7 +2981,6 @@ v-select {
     margin-right: -8px;
     margin-left: 12px;
 }
-
 .v-chip {
     align-items: center;
     border-radius: 28px;
@@ -2993,7 +2992,6 @@ v-select {
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
     vertical-align: middle;
 }
-
     .v-chip .v-chip__content {
         align-items: center;
         border-radius: 28px;
@@ -3006,11 +3004,9 @@ v-select {
         white-space: nowrap;
         z-index: 1;
     }
-
 .v-chip--removable .v-chip__content {
     padding: 0 4px 0 12px;
 }
-
 .v-chip .v-avatar {
     height: 32px !important;
     margin-left: -12px;
@@ -3023,7 +3019,6 @@ v-select {
         height: 100%;
         width: 100%;
     }
-
 .v-chip:focus:not(.v-chip--disabled),
 .v-chip--active,
 .v-chip--selected {
