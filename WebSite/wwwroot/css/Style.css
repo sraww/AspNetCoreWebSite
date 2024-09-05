@@ -2540,21 +2540,17 @@ v-select {
 .theme--dark.v-text-field--outline:not(.v-input--is-focused):not(.v-input--has-state) > .v-input__control > .v-input__slot:hover {
     border: 2px solid #fff;
 }
-
 .application--is-rtl .v-text-field .v-label {
     transform-origin: top right;
 }
-
 .application--is-rtl .v-text-field .v-counter {
     margin-left: 0;
     margin-right: 8px;
 }
-
 .application--is-rtl .v-text-field--enclosed .v-input__append-outer {
     margin-left: 0;
     margin-right: 16px;
 }
-
 .application--is-rtl .v-text-field--enclosed .v-input__prepend-outer {
     margin-left: 16px;
     margin-right: 0;
@@ -2584,12 +2580,10 @@ v-select {
     padding-left: 0;
     padding-right: 4px;
 }
-
 .v-text-field {
     padding-top: 12px;
     margin-top: 4px;
 }
-
     .v-text-field input {
         flex: 1 1 auto;
         line-height: 20px;
@@ -2606,22 +2600,18 @@ v-select {
         line-height: 1;
         user-select: none;
     }
-
     .v-text-field .v-input__prepend-inner {
         margin-right: auto;
         padding-right: 4px;
     }
-
-    .v-text-field .v-input__append-inner {
+   .v-text-field .v-input__append-inner {
         margin-left: auto;
         padding-left: 4px;
     }
-
     .v-text-field .v-counter {
         margin-left: 8px;
         white-space: nowrap;
     }
-
     .v-text-field .v-label {
         max-width: 90%;
         overflow: hidden;
@@ -2631,7 +2621,6 @@ v-select {
         white-space: nowrap;
         pointer-events: none;
     }
-
     .v-text-field .v-label--active {
         max-width: 133%;
         transform: translateY(-18px) scale(0.75);
