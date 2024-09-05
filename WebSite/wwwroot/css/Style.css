@@ -4085,24 +4085,20 @@ v-select {
         right: -35%;
     }
 }
-
 @-moz-keyframes indeterminate-short {
     0% {
         left: -200%;
         right: 100%;
     }
-
     60% {
         left: 107%;
         right: -8%;
     }
-
     100% {
         left: 107%;
         right: -8%;
     }
 }
-
 @-webkit-keyframes indeterminate-short {
     0% {
         left: -200%;
