@@ -2362,20 +2362,17 @@ v-select {
     border-color: #fff;
     color: rgba(0,0,0,0.87);
 }
-
 .theme--dark.v-sheet {
     background-color: #424242;
     border-color: #424242;
     color: #fff;
 }
-
 .v-sheet {
     display: block;
     border-radius: 2px;
     position: relative;
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
 }
-
 .v-sheet--tile {
     border-radius: 0;
 }
