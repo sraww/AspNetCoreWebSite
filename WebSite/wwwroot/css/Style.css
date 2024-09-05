@@ -1257,7 +1257,6 @@ v-select {
 .v-input--is-disabled:not(.v-input--is-readonly) {
     pointer-events: none;
 }
-
 .v-input--is-loading > .v-input__control > .v-input__slot:before,
 .v-input--is-loading > .v-input__control > .v-input__slot:after {
     display: none;
