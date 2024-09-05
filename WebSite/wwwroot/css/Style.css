@@ -434,12 +434,10 @@ edia (min-width: 767px) {
         max-width: 133%;
         transform: translateY(-18px) scale(0.75);
     }
-
     .v-text-field > .v-input__control > .v-input__slot {
         cursor: text;
         transition: background 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
     }
-
         .v-text-field > .v-input__control > .v-input__slot:before,
         .v-text-field > .v-input__control > .v-input__slot:after {
             bottom: -1px;
@@ -449,12 +447,10 @@ edia (min-width: 767px) {
             transition: 0.3s cubic-bezier(0.25, 0.8, 0.6, 1);
             width: 100%;
         }
-
         .v-text-field > .v-input__control > .v-input__slot:before {
             border-style: solid;
             border-width: thin 0 0 0;
         }
-
         .v-text-field > .v-input__control > .v-input__slot:after {
             border-color: currentColor;
             border-style: solid;
@@ -472,10 +468,9 @@ edia (min-width: 767px) {
     align-self: center;
     cursor: default;
 }
-
 .v-text-field__prefix {
     text-align: right;
-    padding-right: 4px;
+    padding-right: 3px;
 }
 .v-text-field__suffix {
     padding-left: 4px;
