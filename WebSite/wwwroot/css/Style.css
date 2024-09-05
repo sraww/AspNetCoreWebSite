@@ -337,7 +337,6 @@ edia (min-width: 767px) {
     margin-top: 22px;
     transition: 0.3s cubic-bezier(0.25, 0.8, 0.5, 1);
 }
-
 .theme--dark.v-text-field--box:not(.v-input--is-focused) > .v-input__control > .v-input__slot:hover {
     background: rgba(0,0,0,0.2);
 }
